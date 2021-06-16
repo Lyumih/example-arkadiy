@@ -1,0 +1,10 @@
+.container {
+  background-color: red;
+  display: flex;
+  min-height: 300px;
+}
+
+.left, .right {
+  max-width: 50%;
+  background: green;
+}
